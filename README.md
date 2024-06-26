@@ -1,2 +1,2 @@
 # Computer-Html-DBSM
-This is a project from my collage for 
+This is a project from my collage 
